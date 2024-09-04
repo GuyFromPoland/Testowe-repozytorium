@@ -1,1 +1,1 @@
-puts "Hello, Tomek!"
+puts "Hello, Szymon!"
